@@ -1,0 +1,8 @@
+[
+    {"name": "Paul","email": "Paul@gmail.com","age": 28},
+    {"name": "George","email": "george@gmail.com","age": 33},
+    {"name": "Stephane","email": "stephane@gmail.com","age": 46},    
+    {"name": "Guy","email": "guy@gmail.com","age": 98},
+    {"name": "Maxine","email": "maxime@gmail.com","age": 54},
+    {"name": "Vincent","email": "vincent@gmail.com","age": 22}
+]   
